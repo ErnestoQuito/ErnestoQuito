@@ -1,16 +1,41 @@
-### Hi there 👋
-
+![Code](https://github.com/ErnestoQuito/ErnestoQuito/blob/main/banner_code.gif)
+### Hola 👋
+_Quiero darte la bienvenida a mi repositorio. Pronto estaré publicando nuevos proyectos._
+### Lenguajes
+<ul>
+  <li>
+    <div style="margin: 10px;">
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/python.svg" width="30" height="30">
+    </div>
+  </li>
+  <li>
+    <div>
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/javascript.svg" width="30" height="30">
+    </div>
+  </liul>
+  <li>
+    <div>
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/django.svg" width="30" height="30">
+    </div>
+  </li>
+  <li>
+    <div>
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/express.svg" width="30" height="30">
+    </div>
+  </li>
+  <li>
+    <div>
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/nodejs.svg" width="30" height="30">
+    </div>
+  </li>
+  <li>
+    <div>
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/vue.svg" width="30" height="30">
+    </div>
+  </li>
+</ul>
 <!--
-**ErnestoQuito/ErnestoQuito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+  <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/react.svg" width="30" height="30">
+</div>
 -->
