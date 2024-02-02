@@ -20,17 +20,7 @@ _Quiero darte la bienvenida a mi repositorio. Pronto estaré publicando nuevos p
   </li>
   <li>
     <div>
-      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/express.svg" width="30" height="30">
-    </div>
-  </li>
-  <li>
-    <div>
       <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/nodejs.svg" width="30" height="30">
-    </div>
-  </li>
-  <li>
-    <div>
-      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/vue.svg" width="30" height="30">
     </div>
   </li>
    <li>
