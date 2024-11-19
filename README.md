@@ -23,4 +23,9 @@ _Quiero darte la bienvenida a mi repositorio. Pronto estaré publicando nuevos p
       <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/nodejs.svg" width="30" height="30">
     </div>
   </li>
+  <li>
+    <div>
+      <img src="https://github.com/ErnestoQuito/ErnestoQuito/blob/main/rust.svg" width="30" height="30">
+    </div>
+  </li>
 </ul>
