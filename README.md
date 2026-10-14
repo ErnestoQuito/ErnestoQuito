@@ -32,8 +32,8 @@
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErnestoQuito&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoQuito&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
 </p>
 
 ---
@@ -41,4 +41,4 @@
 <!-- CONTACTO -->
 ## 📫 Dónde Encontrarme
 
-- 💼 **LinkedIn:** [linkedin.com/in/[tu-usuario]](https://linkedin.com/in/[tu-usuario])
+- 💼 **LinkedIn:** [linkedin.com/in/ernesto-quito-gonzales-0b6b1994](https://linkedin.com/in/ernesto-quito-gonzales-0b6b1994)
